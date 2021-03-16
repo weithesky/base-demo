@@ -1,5 +1,5 @@
 {
-		'arr': [
+		'test': [
 			{'name': 'ww', 'age': 15},
 			{'name': 'ee','age': 16}
 		]
