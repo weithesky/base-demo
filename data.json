@@ -1,8 +1,7 @@
 {
-arr: [
-{name:  'ww', age: 15},
-{name: 'ee',age: 16}
-
-]
-}
+		arr: [
+			{name: 'ww', age: 15},
+			{name: 'ee',age: 16}
+		]
+	}
 
